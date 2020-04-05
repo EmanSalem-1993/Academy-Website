@@ -1,0 +1,70 @@
+
+body{
+	font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Indie Flower', cursive;
+}
+
+.logo{
+	
+	letter-spacing: .4rem;
+}
+
+.home-inner{
+	background-image: url('../img/computers.png');
+	background-size: cover;
+	background-attachment: fixed;
+}
+body{
+	overflow-x: hidden;
+
+}
+.navbar{
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: .1rem;
+
+}
+.navbar-brand{
+	font-size: 7rem;
+}
+.caption{
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	top: 40%;
+	left: 17%;
+
+}
+.bg-level{
+	
+	background-image: url(../img/level.svg);
+
+	
+}
+.hw{
+	width: 11rem;
+	height: 6rem;
+}
+.team{
+	width: 10rem;
+	height: 9rem;
+}
+.bb{
+	display: inline-grid;
+	color: black !important;
+}
+.bb a{
+	color: #fff !important;
+	margin: 1rem
+}
+.subject{
+	font-weight: 700;
+	margin-top: 2rem;
+	font-size: 1.2rem;
+}
+.hh{
+	background-color: #ffe6e6;
+}
+.teamm{
+	background-color: #867979;
+}

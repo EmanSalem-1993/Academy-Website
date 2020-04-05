@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["./javascript/page-template-package/analytics-entry"],{"3D3c":function(n,a,i){"use strict";i("hByQ");var e=t(i("d2nz"));i("jn9D");function t(n){return n&&n.__esModule?n:{default:n}}(0,e.default)(function(){var n=i("bOss");n.ready().then(function(){var n=i("kVl0");var a=window.location,e=a.pathname,t=a.search;n.init(e,t)})})}},[["3D3c","runtime","corelibs","shared-intl","shared"]]]);
+//# sourceMappingURL=../../../../sourcemaps/en/javascript/page-template-package/analytics-entry.a9af4ec705ff1dc368f1.js.map

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="203px" height="139px" viewBox="0 0 203 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 29</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Skill-Paths" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Analyze-data-w-SQL" transform="translate(-59.000000, -40.000000)">
+            <g id="Group-29" transform="translate(59.000000, 40.000000)">
+                <g id="Group-25-Copy-6" transform="translate(147.000000, 57.000000)">
+                    <path d="M33.78125,0 L53.78125,0 C54.8858195,-2.02906125e-16 55.78125,0.8954305 55.78125,2 L55.78125,80 C55.78125,81.1045695 54.8858195,82 53.78125,82 L33.78125,82 C32.6766805,82 31.78125,81.1045695 31.78125,80 L31.78125,2 C31.78125,0.8954305 32.6766805,2.02906125e-16 33.78125,0 Z" id="Rectangle-2-Copy-2" fill="#43134D"></path>
+                    <path d="M2.78125,41 L22.78125,41 C23.8858195,41 24.78125,41.8954305 24.78125,43 L24.78125,80 C24.78125,81.1045695 23.8858195,82 22.78125,82 L2.78125,82 C1.6766805,82 0.78125,81.1045695 0.78125,80 L0.78125,43 C0.78125,41.8954305 1.6766805,41 2.78125,41 Z" id="Rectangle-2-Copy-6" fill="#FFA6F8"></path>
+                </g>
+                <g id="Group-25-Copy-7" transform="translate(26.000000, 4.000000)">
+                    <path d="M63.78125,64 L83.78125,64 C84.8858195,64 85.78125,64.8954305 85.78125,66 L85.78125,133 C85.78125,134.104569 84.8858195,135 83.78125,135 L63.78125,135 C62.6766805,135 61.78125,134.104569 61.78125,133 L61.78125,66 C61.78125,64.8954305 62.6766805,64 63.78125,64 Z" id="Rectangle-2-Copy" fill="#FFA6F8"></path>
+                    <path d="M94.78125,0 L114.78125,0 C115.885819,-2.02906125e-16 116.78125,0.8954305 116.78125,2 L116.78125,133 C116.78125,134.104569 115.885819,135 114.78125,135 L94.78125,135 C93.6766805,135 92.78125,134.104569 92.78125,133 L92.78125,2 C92.78125,0.8954305 93.6766805,2.02906125e-16 94.78125,0 Z" id="Rectangle-2-Copy-3" fill="#43134D"></path>
+                    <path d="M33.78125,99 L53.78125,99 C54.8858195,99 55.78125,99.8954305 55.78125,101 L55.78125,133 C55.78125,134.104569 54.8858195,135 53.78125,135 L33.78125,135 C32.6766805,135 31.78125,134.104569 31.78125,133 L31.78125,101 C31.78125,99.8954305 32.6766805,99 33.78125,99 Z" id="Rectangle-2-Copy-2" fill="#43134D"></path>
+                    <path d="M2.78125,116 L22.78125,116 C23.8858195,116 24.78125,116.895431 24.78125,118 L24.78125,133 C24.78125,134.104569 23.8858195,135 22.78125,135 L2.78125,135 C1.6766805,135 0.78125,134.104569 0.78125,133 L0.78125,118 C0.78125,116.895431 1.6766805,116 2.78125,116 Z" id="Rectangle-2-Copy-6" fill="#FFA6F8"></path>
+                </g>
+                <rect id="Rectangle" fill="#9129A6" x="0" y="0" width="9" height="9"></rect>
+                <rect id="Rectangle-Copy-14" fill="#9129A6" x="0" y="53" width="9" height="9"></rect>
+                <rect id="Rectangle-Copy-15" fill="#9129A6" x="0" y="100" width="9" height="9"></rect>
+                <path d="M123.755765,5 L9.40124393,5" id="Line-2" stroke="#43134D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,4"></path>
+                <path d="M194,58 L11.4010099,58" id="Line-2-Copy" stroke="#43134D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,4"></path>
+                <path d="M55.8129439,105 L11.4010099,105" id="Line-2-Copy-2" stroke="#43134D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
